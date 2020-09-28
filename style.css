@@ -1,0 +1,57 @@
+* {
+  font-size: 16px;
+}
+
+.styBold {
+  font-weight: bold;
+}
+
+.styTitle {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.styStart {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  background-color: forestgreen;
+}
+
+.styIntro {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.styMono {
+  font-family: Monospace;
+  color: teal;
+}
+
+.styTry {
+  font-size: 28px;
+  font-weight: bold;
+  color: indianred;
+}
+
+.styCSS0 * {
+  background-color: peru;
+  padding: 5px;
+}
+
+.styCSS1 {
+  font-family: Purisa;
+  color: skyblue;
+  padding: 10px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.styCSS2 {
+  font-family: eufm10;
+  font-size: 64px;
+  font-stretch: ultra-condensed;
+  letter-spacing: -10px;
+  text-shadow: 5px 5px violet;
+  border: 2px dashed green;
+}
